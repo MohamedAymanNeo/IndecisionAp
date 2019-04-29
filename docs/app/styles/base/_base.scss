@@ -1,0 +1,20 @@
+html {
+    font-size: 62.5%; //make the whole font size = to 10px
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;  //equal to 1.6*10 = 16px;
+    background: $dark_blue
+}
+
+
+button {
+    cursor: pointer
+}
+
+
+button:disabled {
+    cursor: default;
+}
