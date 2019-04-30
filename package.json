@@ -1,0 +1,36 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-server": "webpack-dev-server"
+  },
+  "author": "Mohamed Ayman",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "6.24.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "7.1.1",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "0.28.4",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "gulp": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "live-server": "^1.2.1",
+    "node-sass": "^4.12.0",
+    "normalize.css": "7.0.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-modal": "2.2.2",
+    "sass-loader": "^7.1.0",
+    "style-loader": "0.18.2",
+    "validator": "8.0.0",
+    "webpack": "3.1.0",
+    "webpack-dev-server": "2.5.1"
+  }
+}
